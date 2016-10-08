@@ -14,6 +14,7 @@ r.login()
 submission = r.get_submission(submission_id = "105aru") 
 
 #vars contains the objects attributes and the values they contain
+#compare print statements to https://www.reddit.com/r/learnpython/comments/105aru/newbie_stripping_strings_of_last_character/
 
 pprint(vars(submission)) 
 
