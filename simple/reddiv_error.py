@@ -6,10 +6,10 @@ import time
 import praw 
 
 #from pprint import pprint 
-#-username- 
+ 
 r = praw.Reddit('PRAW redditdev search /u/-username- v 1.0.') 
-#-password-
-r.login('loubloom12','Filthycheese12') 
+
+r.login('-username-','-password-') 
 
 print('Logged In') 
  
