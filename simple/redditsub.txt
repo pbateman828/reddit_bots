@@ -10,3 +10,9 @@ Submission ids and URLs
 [3](Link = http://redd.it/56e5a0)(Submission id = 56e5a0)(Title = Looking for python long term saving)
 [4](Link = http://redd.it/56dg25)(Submission id = 56dg25)(Title = python and praw, can't catch errors with get_unread() or mark_as_read())
 ----------------------------------------
+Submission ids and URLs
+[1](Link = http://redd.it/56mmy2)(Submission id = 56mmy2)(Title = Invalid User Exception Handling)
+[2](Link = http://redd.it/56hw79)(Submission id = 56hw79)(Title = Inbox messages sent by myself. Deletion possible? (PRAW))
+[3](Link = http://redd.it/56e5a0)(Submission id = 56e5a0)(Title = Looking for python long term saving)
+[4](Link = http://redd.it/56dg25)(Submission id = 56dg25)(Title = python and praw, can't catch errors with get_unread() or mark_as_read())
+----------------------------------------

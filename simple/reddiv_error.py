@@ -2,7 +2,7 @@
 #looks at the redditdev subreddit and writes submissions 
 #to a text file. Only checks first ten submissions of (hot)redditdev 
 
-import time  
+#import time  
 import praw 
 
 #from pprint import pprint 

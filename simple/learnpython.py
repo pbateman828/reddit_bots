@@ -1,7 +1,7 @@
 #! /usr/bin/python3  
 import time 
 import praw  
-from pprint import pprint
+from pprint import pprint 
 
 # r is the description that the reddit API sees. 
 #use your own username /u/ 
